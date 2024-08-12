@@ -1,3 +1,11 @@
+# Colombia api data visualization
+
+## About
+
+Web application that showcases data fetching and visualization. It uses data from [api-colombia](https://api-colombia.com/) web service.
+
+## Project bootstrap
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
